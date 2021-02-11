@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-nwitter/static/css/main.38bdcfea.chunk.css",
+    "main.js": "/react-nwitter/static/js/main.8a3f5fbb.chunk.js",
+    "main.js.map": "/react-nwitter/static/js/main.8a3f5fbb.chunk.js.map",
+    "runtime-main.js": "/react-nwitter/static/js/runtime-main.df0d0d3a.js",
+    "runtime-main.js.map": "/react-nwitter/static/js/runtime-main.df0d0d3a.js.map",
+    "static/js/2.62d7e6e1.chunk.js": "/react-nwitter/static/js/2.62d7e6e1.chunk.js",
+    "static/js/2.62d7e6e1.chunk.js.map": "/react-nwitter/static/js/2.62d7e6e1.chunk.js.map",
+    "index.html": "/react-nwitter/index.html",
+    "static/css/main.38bdcfea.chunk.css.map": "/react-nwitter/static/css/main.38bdcfea.chunk.css.map",
+    "static/js/2.62d7e6e1.chunk.js.LICENSE.txt": "/react-nwitter/static/js/2.62d7e6e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df0d0d3a.js",
+    "static/js/2.62d7e6e1.chunk.js",
+    "static/css/main.38bdcfea.chunk.css",
+    "static/js/main.8a3f5fbb.chunk.js"
+  ]
+}

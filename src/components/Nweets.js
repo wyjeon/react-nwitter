@@ -1,4 +1,4 @@
-import { dbService } from 'fBase';
+import { dbService, storageService } from 'fBase';
 import React, { useState } from 'react';
 
 const Nweets = ({ nweetObj, isOwner }) => {
@@ -10,6 +10,7 @@ const Nweets = ({ nweetObj, isOwner }) => {
     if (ok) {
       //delete nweet
       await dbService.doc(`nweets/${nweetObj.id}`).delete();
+      await storageService.refFromURL(nweetObj.attachmentUrl).delete();
     }
   };
 
